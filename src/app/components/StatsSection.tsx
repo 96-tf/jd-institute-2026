@@ -78,7 +78,7 @@ export function StatsSection() {
                     src={logo.src}
                     alt={`${logo.alt} - JD Institute placement partner`}
                     style={{ height: logo.h * 1.0, width: "auto", filter: 'var(--t-logo-filter)' }}
-                    className="shrink-0 object-contain mx-10"
+                    className="shrink-0 object-contain mx-6 md:mx-10"
                     loading="lazy"
                     decoding="async"
                   />
@@ -95,7 +95,7 @@ export function StatsSection() {
                     src={logo.src}
                     alt={`${logo.alt} - JD Institute placement partner`}
                     style={{ height: logo.h * 1.0, width: "auto", filter: 'var(--t-logo-filter)' }}
-                    className="shrink-0 object-contain mx-10"
+                    className="shrink-0 object-contain mx-6 md:mx-10"
                     loading="lazy"
                     decoding="async"
                   />
