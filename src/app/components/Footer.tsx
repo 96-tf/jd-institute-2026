@@ -29,7 +29,7 @@ export function Footer() {
             {/* Left - Logo + Address + Contact */}
             <div className="flex flex-col gap-8 max-w-[446px]">
               <a href="/" aria-label="JD Institute - Home">
-                <img src={isDark ? '/images/logo-dark.webp' : '/images/logo.webp'} alt="JD Institute of Fashion Technology" className="h-[60px] md:h-[72px] object-contain w-fit transition-all duration-500" loading="lazy" decoding="async" />
+                <img src={isDark ? './images/logo-dark.webp' : './images/logo.webp'} alt="JD Institute of Fashion Technology" className="h-[60px] md:h-[72px] object-contain w-fit transition-all duration-500" loading="lazy" decoding="async" />
               </a>
               <address className="not-italic flex flex-col gap-6">
                 <div className="flex flex-col gap-2">
