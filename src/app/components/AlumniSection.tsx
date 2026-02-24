@@ -3,28 +3,28 @@ import { AnimateOnScroll } from "./AnimateOnScroll";
 
 const alumni = [
   {
-    img: "/images/alumni-rocky.webp",
+    img: "./images/alumni-rocky.webp",
     classOf: "Class of 1990",
     name: "Rocky S",
     role: "Celebrity Fashion Designer",
     desc: "Started at JD Institute. Now a global powerhouse styling legends from Bollywood to Hollywood.",
   },
   {
-    img: "/images/alumni-shane.webp",
+    img: "./images/alumni-shane.webp",
     classOf: "Class of 1994",
     name: "Shane Peacock",
     role: "Luxury Global Designer",
     desc: "From JD Institute labs to styling Beyonce and Lady Gaga on the world's biggest runways.",
   },
   {
-    img: "/images/alumni-urvashi.webp",
+    img: "./images/alumni-urvashi.webp",
     classOf: "Class of 1995",
     name: "Urvashi Kaur",
     role: "Founder, Urvashi Kaur",
     desc: "A celebrated name in luxurious pret. Redefining Indian fashion by blending global silhouettes with heritage organic textiles.",
   },
   {
-    img: "/images/alumni-jigar.webp",
+    img: "./images/alumni-jigar.webp",
     classOf: "Class of 2005",
     name: "Jigar Mali",
     role: "Founder, Jigar & Nikita",

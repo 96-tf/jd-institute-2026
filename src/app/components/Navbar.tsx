@@ -63,7 +63,7 @@ export function Navbar() {
         <a href="/" aria-label="JD Institute - Home">
           <img
             ref={logoRef}
-            src={isDark ? '/images/logo-dark.webp' : '/images/logo.webp'}
+            src={isDark ? './images/logo-dark.webp' : './images/logo.webp'}
             alt="JD Institute of Fashion Technology Logo"
             className="h-[72px] md:h-[46px] lg:h-[66px] object-contain transition-all duration-500"
             fetchPriority="high"

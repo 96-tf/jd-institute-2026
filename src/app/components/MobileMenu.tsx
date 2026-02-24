@@ -39,7 +39,7 @@ export function MobileMenu({
           {/* Header with logo */}
           <div className="flex items-center justify-between px-6 pt-8 pb-4">
             <img
-              src="/images/logo-dark.webp"
+              src="./images/logo-dark.webp"
               alt="JD Institute"
               className="h-[48px] object-contain"
             />

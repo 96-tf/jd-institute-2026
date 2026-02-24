@@ -9,19 +9,19 @@ const stats = [
 ];
 
 const logosRow1 = [
-  { src: "/images/logos/manishmalhotra.webp", alt: "Manish Malhotra", h: 30, w: 72 },
-  { src: "/images/logos/m&s.webp", alt: "Marks & Spencer", h: 51, w: 51 },
-  { src: "/images/logos/satyapaul.webp", alt: "Satya Paul", h: 17, w: 92 },
-  { src: "/images/logos/ritukumar.webp", alt: "Ritu Kumar", h: 40, w: 80 },
-  { src: "/images/logos/zara.webp", alt: "Zara", h: 30, w: 60 },
+  { src: "./images/logos/manishmalhotra.webp", alt: "Manish Malhotra", h: 30, w: 72 },
+  { src: "./images/logos/m&s.webp", alt: "Marks & Spencer", h: 51, w: 51 },
+  { src: "./images/logos/satyapaul.webp", alt: "Satya Paul", h: 17, w: 92 },
+  { src: "./images/logos/ritukumar.webp", alt: "Ritu Kumar", h: 40, w: 80 },
+  { src: "./images/logos/zara.webp", alt: "Zara", h: 30, w: 60 },
 ];
 
 const logosRow2 = [
-  { src: "/images/logos/biba.webp", alt: "Biba", h: 68, w: 68 },
-  { src: "/images/logos/clavinklein.webp", alt: "Calvin Klein", h: 45, w: 80 },
-  { src: "/images/logos/gap.webp", alt: "Gap", h: 40, w: 70 },
-  { src: "/images/logos/h&m.webp", alt: "H&M", h: 37, w: 55 },
-  { src: "/images/logos/tommyhilfiger.webp", alt: "Tommy Hilfiger", h: 40, w: 80 },
+  { src: "./images/logos/biba.webp", alt: "Biba", h: 68, w: 68 },
+  { src: "./images/logos/clavinklein.webp", alt: "Calvin Klein", h: 45, w: 80 },
+  { src: "./images/logos/gap.webp", alt: "Gap", h: 40, w: 70 },
+  { src: "./images/logos/h&m.webp", alt: "H&M", h: 37, w: 55 },
+  { src: "./images/logos/tommyhilfiger.webp", alt: "Tommy Hilfiger", h: 40, w: 80 },
 ];
 
 export function StatsSection() {

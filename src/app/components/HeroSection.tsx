@@ -85,7 +85,7 @@ export function HeroSection() {
           className="w-full h-[400px] sm:h-[500px] md:h-[600px] lg:h-[600px] rounded-[12px] overflow-hidden"
         >
           <img
-            src="/images/hero.webp"
+            src="./images/hero.webp"
             alt="Fashion design students collaborating in a creative studio at JD Institute, Hauz Khas Village, New Delhi"
             className="w-full h-full object-cover will-change-transform"
             fetchPriority="high"

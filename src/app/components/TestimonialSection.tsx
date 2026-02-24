@@ -6,22 +6,22 @@ const testimonials = [
     text: "JD was the stepping stone. I learned everything from the basics to professional industry standards, which helped me transition from a student to working with a global brand like H&M.",
     name: "Varshini Loganathan",
     role: "Designer, H&M",
-    avatar: "/images/testimonial.webp",
-    logo: "/images/logos/h&m.webp",
+    avatar: "./images/testimonial.webp",
+    logo: "./images/logos/h&m.webp",
   },
   {
     text: "The practical exposure at JD Institute gave me the confidence to launch my own label. The industry connections I made during my course were invaluable.",
     name: "Aditi Rao",
     role: "Founder, Studio Aditi",
-    avatar: "/images/testimonial2.webp",
-    logo: "/images/logos/biba.webp", // Placeholder as Studio Aditi logo is not provided
+    avatar: "./images/testimonial2.webp",
+    logo: "./images/logos/biba.webp", // Placeholder as Studio Aditi logo is not provided
   },
   {
     text: "From design theory to hands-on pattern making, JD Institute prepared me for the real world of fashion. I couldn't have asked for a better foundation.",
     name: "Karan Mehta",
     role: "Senior Designer, Zara",
-    avatar: "/images/testimonial3.webp",
-    logo: "/images/logos/zara.webp",
+    avatar: "./images/testimonial3.webp",
+    logo: "./images/logos/zara.webp",
   },
 ];
 

@@ -14,9 +14,9 @@ const courses = [
     description:
       "A comprehensive undergraduate program focusing on creative conceptualization, technical draping, and digital fashion illustration.",
     idealFor: "Ideal for 12th Pass Students.",
-    image: "/images/course-bdes.webp",
+    image: "./images/course-bdes.webp",
     imageAlt: "Fashion design undergraduate course",
-    universityLogo: "/images/university-bdes.webp",
+    universityLogo: "./images/university-bdes.webp",
   },
   {
     id: "mdes",
@@ -26,9 +26,9 @@ const courses = [
     description:
       "An advanced postgraduate program emphasizing research-driven design thinking, sustainable fashion practices, and industry leadership.",
     idealFor: "Ideal for Graduates & Working Professionals.",
-    image: "/images/course-mdes.webp",
+    image: "./images/course-mdes.webp",
     imageAlt: "Fashion design postgraduate course",
-    universityLogo: "/images/university-mdes.webp",
+    universityLogo: "./images/university-mdes.webp",
   },
 ];
 

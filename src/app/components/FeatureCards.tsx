@@ -26,7 +26,7 @@ export function FeatureCards() {
         <AnimateOnScroll direction="up" delay={0.1} className="flex-1">
           <div className="h-[400px] md:h-full rounded-[8px] overflow-hidden" style={{ boxShadow: '0px -8px 61.9px 0px var(--t-shadow)' }}>
             <img
-              src="/images/feature.webp"
+              src="./images/feature.webp"
               alt="JD Institute fashion design lab with students working on garments"
               className="w-full h-full object-cover rounded-[8px]"
               loading="lazy"

@@ -5,9 +5,9 @@ import { useFormModal } from "./FormModalContext";
 import { HoverSlideText } from "./ui/HoverSlideText";
 
 const studentWorks = [
-  { img: "/images/student-work-1.webp", name: "Priya Sharma", batch: "Fashion Design 2024", height: "h-[340px] md:h-[497px]" },
-  { img: "/images/student-work-2.webp", name: "Ananya Singh", batch: "Fashion Design 2023", height: "h-[220px] md:h-[300px]" },
-  { img: "/images/student-work-3.webp", name: "Ritu Verma", batch: "Fashion Design 2024", height: "h-[280px] md:h-[400px]" },
+  { img: "./images/student-work-1.webp", name: "Priya Sharma", batch: "Fashion Design 2024", height: "h-[340px] md:h-[497px]" },
+  { img: "./images/student-work-2.webp", name: "Ananya Singh", batch: "Fashion Design 2023", height: "h-[220px] md:h-[300px]" },
+  { img: "./images/student-work-3.webp", name: "Ritu Verma", batch: "Fashion Design 2024", height: "h-[280px] md:h-[400px]" },
 ];
 
 export function StudentWork() {
