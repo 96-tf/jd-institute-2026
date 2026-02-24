@@ -28,8 +28,8 @@ export function Footer() {
           <div className="flex flex-col lg:flex-row justify-between gap-12 lg:gap-16 mb-16">
             {/* Left - Logo + Address + Contact */}
             <div className="flex flex-col items-start gap-8 max-w-[446px]">
-              <a href="/" aria-label="JD Institute - Home">
-                <img src={isDark ? './images/logo-dark.webp' : './images/logo.webp'} alt="JD Institute of Fashion Technology" className="h-[60px] md:h-[72px] object-contain w-fit transition-all duration-500" loading="lazy" decoding="async" />
+              <a href="/" aria-label="JD Institute - Home" className="w-full flex justify-start">
+                <img src={isDark ? './images/logo-dark.webp' : './images/logo.webp'} alt="JD Institute of Fashion Technology" className="h-[60px] md:h-[72px] object-contain transition-all duration-500" loading="lazy" decoding="async" />
               </a>
               <address className="not-italic flex flex-col gap-6">
                 <div className="flex flex-col gap-2">
